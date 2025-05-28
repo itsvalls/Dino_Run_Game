@@ -59,8 +59,8 @@ GUI components of the game:
  Lightmode  
 ![image](https://github.com/user-attachments/assets/02b822e8-5b4c-462c-b4fc-cd94b397af19)
 
-| Darkmode | 
-![image](![image](https://github.com/user-attachments/assets/7a372d2d-434e-4e43-aa46-05661f32d458)
+ Darkmode 
+![image](https://github.com/user-attachments/assets/7a372d2d-434e-4e43-aa46-05661f32d458)
 
 ---
 
